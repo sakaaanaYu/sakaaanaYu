@@ -4,7 +4,7 @@ A student with a background in both art and science, hoping to make a difference
 Wish to travel around the world!🌏
 
 ### 🐻 About me
-- 🏫 An undergraduate from HUST, majoring in **Communication** of SJIC. 
+- 🏫 An undergraduate from [HUST](https://www.hust.edu.cn/), majoring in **Communication** of [SJIC](https://sjic.hust.edu.cn/). 
 - 💻 I’m currently learning **Data Vis** and courses of **Computer Science**. 
 - 🎵 I love art and music, especially pop rap and R\&B. 
 - 📧 Reach me through <sakaaanayu@gmail.com>.
