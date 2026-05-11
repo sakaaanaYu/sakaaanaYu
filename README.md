@@ -1,13 +1,13 @@
  # Hi there👋, I’m @sakaaanaYu
-A student with background in both social science and engineering, hoping to make a difference through my own efforts.
+A student with background in both social science and engineering, hoping to make a difference through own efforts.
 
 Wish to travel around the world!🌏
 
 ### 🐟 About me
-- 🏫 An undergraduate from [HUST](https://www.hust.edu.cn/), majoring in **Communication** of [SJIC](https://sjic.hust.edu.cn/). 
-- 💻 I’m currently learning **Data Vis** and courses of **Computer Science**. 
+- 🏫 An undergraduate from [HUST](https://www.hust.edu.cn/), majoring in **Communication** of [SJIC](https://sjic.hust.edu.cn/) with a dual degree of **Computer Science**. 
+- 💻 My research interests lie in **Data Vis** and **Computational Communication**. 
 - 🎵 I love art and music, especially pop rap and R\&B. 
-- 📧 Reach me through <sakaaanayu@gmail.com>.
+- 📧 Reach me through <yiixin_yu@outlook.com>.
 
 
 ### 🔨 Languages and Tools
