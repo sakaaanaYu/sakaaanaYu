@@ -1,11 +1,11 @@
- # Hi there👋, I’m @sakaaanaYu
+ # Hi there👋, I’m Yixin YU
 A student with background in both social science and engineering.
 
-Wish to travel around the world!🌏
+Wish to travel around the world 🌏
 
 ### 🐟 About me
 - 🎓 I have graduated from [HUST](https://www.hust.edu.cn/) with a **BA** degree of **Communication** and a **BEng** degree of **Computer Science**.
-- 🏫 Next, I'll begin my dual-degree master's programme at [THU](https://www.tsinghua.edu.cn/) and [NTU](https://www.ntu.edu.sg/).
+- 🏫 I will begin my dual-degree master's programme at [THU](https://www.tsinghua.edu.cn/) and [NTU](https://www.ntu.edu.sg/) in the field of **Science Communication**.
 - 💻 My research interests lie in **Data Vis**, **Human-Computer Interaction** and **Computational Communication**. 
 - 📧 Reach me through <yiixin_yu@outlook.com>.
 
