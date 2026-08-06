@@ -5,8 +5,8 @@ Wish to travel around the world 🌏
 
 ### 🐟 About me
 - 🎓 I have graduated from [HUST](https://www.hust.edu.cn/) with a **BA** degree of **Communication** and a **BEng** degree of **Computer Science**.
-- 🏫 I will begin my dual-degree master's programme at [THU](https://www.tsinghua.edu.cn/) and [NTU](https://www.ntu.edu.sg/) in the field of **Science Communication**.
-- 💻 My research interests lie in **Data Vis**, **Human-Computer Interaction** and **Computational Communication**. 
+- 🏫 I will begin my dual-degree master's programme at [THU](https://www.tsinghua.edu.cn/) and [NTU](https://www.ntu.edu.sg/) in the field of **Science Comm**.
+- 💻 My research interests lie in **Data Vis**, **HCI** and **Computational Comm**. 
 - 📧 Reach me through <yiixin_yu@outlook.com>.
 
 
