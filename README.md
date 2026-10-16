@@ -1,12 +1,12 @@
  # Hi there👋, I’m Yixin YU
 A student with background in both social science and engineering.
 
-Wish to travel around the world 🌏
+Hoping to travel around the world 🌏
 
 ### 🐟 About me
 - 🎓 I have graduated from [HUST](https://www.hust.edu.cn/) with a **BA** degree of **Communication** and a **BEng** degree of **Computer Science**.
-- 🏫 I will begin my dual-degree master's programme at [THU](https://www.tsinghua.edu.cn/) and [NTU](https://www.ntu.edu.sg/) in the field of **Science Comm**.
-- 💻 My research interests lie in **Data Vis**, **HCI** and **Computational Comm**. 
+- 🏫 I'm pursuing a dual master's degree programme in **Science Communication** at [THU](https://www.tsinghua.edu.cn/) and [NTU](https://www.ntu.edu.sg/).
+- 💻 My research interests lie in **Human-Centered AI**, **HCI** and **Computational Comm**. 
 - 📧 Reach me through <yiixin_yu@outlook.com>.
 
 
